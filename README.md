@@ -1,4 +1,4 @@
-# Proyecto_2_IA
+# Proyecto_4_IA
 
 Objetivo 1:
 - Predecir dadas las características de un estudiante si este es alcoholico o no
